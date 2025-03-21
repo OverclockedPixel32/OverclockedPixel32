@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm [OverclockedGenius](https://owensprojects.com)\
+I'm [OverclockedPixel32](https://owensprojects.com)\
 I try to make cool stuff
 I currently make most stuff in rust, although not much of it is on github.
 
